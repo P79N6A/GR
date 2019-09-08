@@ -319,17 +319,6 @@
         <item>@android:string/megabyteShort</item>
         <item>@android:string/gigabyteShort</item>
      </array>
-     <string-array name="captioning_color_selector_titles">
-        <item>@string/color_unspecified</item>
-        <item>@string/color_white</item>
-        <item>@string/color_black</item>
-        <item>@string/color_red</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_magenta</item>
-     </string-array>
      <string-array name="captioning_edge_type_selector_titles">
         <item>Προεπιλογή</item>
         <item>Χωρίς</item>
@@ -1025,31 +1014,6 @@
         <item>Asia/Magadan</item>
         <item>Pacific/Tongatapu</item>
      </string-array>
-     <array name="click_bottom">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom08</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-     </array>
      <string-array name="color_mode_descriptions">
         <item>Βελτιωμένα χρώματα</item>
         <item>Φυσικά χρώματα όπως είναι ορατά στο μάτι</item>
@@ -1156,181 +1120,6 @@
         <item>2</item>
         <item>3</item>
      </string-array>
-     <string-array name="defalut_browser_package">
-        <item>mx_telcel:com.android.chrome</item>
-     </string-array>
-     <string-array name="default_email_package">
-        <item>mx_telcel:com.google.android.gm</item>
-     </string-array>
-     <string-array name="default_gallery_package">
-        <item>mx_telcel:com.google.android.apps.photos</item>
-     </string-array>
-     <string-array name="default_mms_package">
-        <item>mx_telcel:com.google.android.apps.messaging</item>
-     </string-array>
-     <string-array name="default_video_package">
-        <item>mx_telcel:com.google.android.apps.photos</item>
-     </string-array>
-     <string-array name="device_global_support_face_facejiajia">
-        <item>jason</item>
-        <item>polaris</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>dipper</item>
-        <item>sirius</item>
-        <item>ursa</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>platina</item>
-        <item>capricorn</item>
-        <item>equuleus</item>
-        <item>natrium</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>lithium</item>
-        <item>riva</item>
-        <item>rosy</item>
-        <item>scorpio</item>
-        <item>beryllium</item>
-     </string-array>
-     <string-array name="device_global_support_face_sensetime">
-        <item>jason</item>
-        <item>polaris</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>dipper</item>
-        <item>sirius</item>
-        <item>ursa</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>platina</item>
-        <item>capricorn</item>
-        <item>equuleus</item>
-        <item>natrium</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>lithium</item>
-        <item>riva</item>
-        <item>rosy</item>
-        <item>scorpio</item>
-        <item>beryllium</item>
-     </string-array>
-     <string-array name="device_support_face">
-        <item>jason</item>
-        <item>polaris</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>dipper</item>
-        <item>sirius</item>
-        <item>ursa</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>beryllium</item>
-        <item>perseus</item>
-        <item>equuleus</item>
-        <item>lithium</item>
-        <item>scorpio</item>
-        <item>natrium</item>
-        <item>capricorn</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>tulip</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>rosy</item>
-        <item>riva</item>
-     </string-array>
-     <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>lotus</item>
-     </string-array>
-     <string-array name="device_use_cameraone">
-        <item>jason</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>gemini</item>
-        <item>lithium</item>
-        <item>scorpio</item>
-        <item>natrium</item>
-        <item>capricorn</item>
-        <item>aqua</item>
-        <item>libra</item>
-        <item>tulip</item>
-        <item>tiffany</item>
-        <item>vince</item>
-        <item>rosy</item>
-        <item>riva</item>
-     </string-array>
-     <string-array name="dirac_equalizer_preset_names">
-        <item>@string/eq_flat</item>
-        <item>@string/eq_rock</item>
-        <item>@string/eq_jazz</item>
-        <item>@string/eq_pop</item>
-        <item>@string/eq_classical</item>
-        <item>@string/eq_hiphop</item>
-        <item>@string/eq_blues</item>
-        <item>@string/eq_electronic</item>
-        <item>@string/eq_country</item>
-        <item>@string/eq_dance</item>
-        <item>@string/eq_metal</item>
-     </string-array>
-     <string-array name="dirac_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0</item>
-        <item>4,2,-2,0,-2,-2,4</item>
-        <item>0,0,0,-2,-3,0,0</item>
-        <item>0,-3,-5,0,0,-3,0</item>
-        <item>0,0,0,0,3,6,6</item>
-        <item>3,3,-3,0,-3,0,2</item>
-        <item>2,4,-6,4,0,1,2</item>
-        <item>3,3,-1,0,-3,0,0</item>
-        <item>0,0,-2,-2,2,2,0</item>
-        <item>0,4,2,0,-2,-2,4</item>
-        <item>2,0,0,-2,-4,0,0</item>
-     </string-array>
-     <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
-     </string-array>
-     <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_all</item>
-        <item>@string/dndm_vip_list_contact</item>
-        <item>@string/dndm_vip_list_starred_contact</item>
-        <item>@string/dndm_vip_list_custom</item>
-     </string-array>
      <string-array name="dream_timeout_entries">
         <item>Ποτέ</item>
         <item>15 δευτ.</item>
@@ -1374,14 +1163,6 @@
      <string-array name="fluency_mode_summaries">
         <item>Για να επιταχυνθεί η απόδοση, απόκρυψη κίνησης συστήματος</item>
         <item>Η εμφάνιση των κινήσεων, μπορεί να επιβραδύνει την απόδοση</item>
-     </string-array>
-     <string-array name="font_size_title">
-        <item>@string/layout_size_small</item>
-        <item>@string/layout_size_normal</item>
-        <item>@string/layout_size_medium</item>
-        <item>@string/layout_size_large</item>
-        <item>@string/layout_size_huge</item>
-        <item>@string/layout_size_exhuge</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5\u2033</item>
@@ -1497,44 +1278,7 @@
         <item>5 λεπτά</item>
         <item>Ποτέ</item>
      </string-array>
-     <array name="long_press">
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom02</item>
-        <item>@drawable/longpressbottom03</item>
-        <item>@drawable/longpressbottom04</item>
-        <item>@drawable/longpressbottom05</item>
-        <item>@drawable/longpressbottom06</item>
-        <item>@drawable/longpressbottom07</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom08</item>
-        <item>@drawable/longpressbottom09</item>
-        <item>@drawable/longpressbottom10</item>
-        <item>@drawable/longpressbottom11</item>
-        <item>@drawable/longpressbottom04</item>
-        <item>@drawable/longpressbottom03</item>
-        <item>@drawable/longpressbottom02</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-        <item>@drawable/longpressbottom01</item>
-     </array>
-     <string-array name="long_press_timeout_selector_titles">
+    <string-array name="long_press_timeout_selector_titles">
         <item>Σύντομη</item>
         <item>Μέτρια</item>
         <item>Μεγάλη</item>
@@ -1696,62 +1440,6 @@
         <item>Καταστολή θορύβου 1 μικρόφωνο</item>
         <item>Καταστολή θορύβου 2 μικρόφωνα</item>
      </string-array>
-     <array name="power_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </array>
-     <array name="power_double_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </array>
      <string-array name="power_mode_entries">
         <item>Υψηλή απόδοση</item>
         <item>Ισορροπημένη</item>
@@ -2633,4 +2321,8 @@
         <item>Βελτιστοποιημένη για ποιότητα ήχου (900kbps)</item>
         <item>Καλύτερη προσπάθεια (αυτόμ. ρυθμός μετάδοσης bit)</item>
     </string-array>
+     <string-array name="peek_notification_styles_entries">
+        <item>Προεπιλογή</item>
+        <item>Διπλή γραμμή</item>
+     </string-array>
 </resources>

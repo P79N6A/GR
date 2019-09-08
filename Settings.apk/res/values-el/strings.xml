@@ -6699,4 +6699,6 @@ aptX-Προσαρμοστική: Λειτουργία Κωδικ/σης"</string
     <string name="aod_notification_style_none">Καμμιά ενέργεια</string>
     <string name="aod_notification_style_screen_on">Φωτισμός οθόνης</string>
     <string name="aod_notification_style_animation">Εμφάνιση κίνησης</string>
+    <string name="notification_styles_title">Τύπος γραμμής κατάστασης</string>
+    <string name="sbs_show_network_speed_dual_title">Εμφάνιση στη διπλή γραμμή</string>
 </resources>
